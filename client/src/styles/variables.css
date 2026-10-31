@@ -1,0 +1,7 @@
+:root {
+  --bg: #efeeec; --surface: #fff; --ink: #0a0a0a; --muted: #5c5a57; --line: #d8d5d0;
+  --accent: #ff1f2b; --accent-ink: #fff; --soft: #e4e1dc; --orange: #ff5b1f; --black: #0a0a0a;
+  --ok: #1a8f5c; --err: #d11a24;
+  --head: "Inter Tight", "Arial Narrow", Arial, sans-serif;
+  --body: "Inter", "Segoe UI", Arial, sans-serif;
+}
